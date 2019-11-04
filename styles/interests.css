@@ -1,0 +1,14 @@
+body {
+  font-size: 18px; }
+  body table {
+    margin-top: 50px; }
+  body table th, body table td {
+    background-color: white; }
+
+#text1 {
+  color: #3189ec; }
+
+#text2 {
+  color: rgba(250, 121, 15, 0.815); }
+
+/*# sourceMappingURL=interests.css.map */
