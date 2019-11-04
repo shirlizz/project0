@@ -1,0 +1,29 @@
+ul {
+  font-size: 14px;
+  color: red; }
+
+ol {
+  font-size: 18px;
+  color: red; }
+
+h3 {
+  font-size: 18px;
+  color: #33bbff; }
+
+h4 {
+  font-size: 18px;
+  color: #004080; }
+
+h5 {
+  font-size: 18px;
+  color: red; }
+
+#home {
+  text-align: center;
+  margin-top: 10px; }
+
+body {
+  background-image: linear-gradient(#006666, #99ffff);
+  background-repeat: no-repeat; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,42 @@
+$color: red;
+$color2:#33bbff;
+$color3: #004080;
+$color4: #4d004d;
+
+ul {
+    font-size: 14px;
+    color: $color;
+}
+
+ol {
+    font-size: 18px;
+    color: $color;
+}
+
+h3 {
+    font-size: 18px;
+    color: $color2;
+}
+
+h4 {
+    font-size: 18px;
+    color: $color3
+}
+h5 {
+    font-size: 18px;
+    color: $color;
+}
+
+#home {
+	text-align: center;
+	margin-top: 10px;
+}
+
+body {
+	background-image: linear-gradient(#006666, #99ffff);
+	background-repeat: no-repeat;
+	
+}
+
+
+
